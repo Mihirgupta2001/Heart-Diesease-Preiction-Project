@@ -1,0 +1,35 @@
+{
+  "build": "py310haa95532_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/anaconda/win-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.10,<3.11.0a0"
+  ],
+  "extracted_package_dir": "C:\\Users\\MR.USER\\anaconda3\\pkgs\\typing-3.10.0.0-py310haa95532_0",
+  "features": "",
+  "files": [
+    ".nonadmin"
+  ],
+  "fn": "typing-3.10.0.0-py310haa95532_0.tar.bz2",
+  "license": "PSF",
+  "link": {
+    "source": "C:\\Users\\MR.USER\\anaconda3\\pkgs\\typing-3.10.0.0-py310haa95532_0",
+    "type": 1
+  },
+  "md5": "8eeb79f0962b9f2ee9a62007a3eca9dc",
+  "name": "typing",
+  "package_tarball_full_path": "C:\\Users\\MR.USER\\anaconda3\\pkgs\\typing-3.10.0.0-py310haa95532_0.tar.bz2",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "typing",
+  "sha256": "c46bc324b75a75b8301ad64a9464def656debf545d3c154c95986a2f82b29f07",
+  "size": 8032,
+  "subdir": "win-64",
+  "timestamp": 1642093549528,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/anaconda/win-64/typing-3.10.0.0-py310haa95532_0.tar.bz2",
+  "version": "3.10.0.0"
+}
